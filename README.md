@@ -7,7 +7,7 @@ Each project demonstrates different skills in software development, problem solv
 
 ## 🚀 Projects
 
-### [Ascii Art Generator](https://github.com/idanHir/ascii-art)
+### [Ascii Art Generator](https://github.com/idanHir/AsciiArt)
 **Language:** Java  
 
 A program that converts images into ASCII art.  
