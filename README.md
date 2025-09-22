@@ -34,3 +34,4 @@ A simulation of the Snakes and Ladders game, powered by Markov chains.
 make snake     # for Snakes and Ladders
 make tweets    # for text generator
 ```
+Additional explanations regarding each project are provided in the README file of its respective repository. 
