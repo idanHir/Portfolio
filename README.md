@@ -12,7 +12,7 @@ Each project demonstrates different skills in software development, problem solv
 
 A program that converts images into ASCII art.  
 - Implements image processing, character matching, and custom rendering.  
-- Organized into packages: `ascii_art`, `image`, `image_char_matching`.  
+- Organized into packages: `ascii_art`, `ascii_output`, `image`, `image_char_matching`.  
 - Written in pure Java (no external dependencies).  
 
 **How to run:**  
